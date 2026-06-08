@@ -2,4 +2,4 @@ Hello there 👋
 
 - ⚙️ I use daily: `.py` `.Ts` `.claude code` `.Cursor`
 - 🌍 I'm mostly active in [ x (twitter) ]( https://x.com/Gokulakrishnxn );
-- 🪽 Portfolio, [ Gokulakrishnan.dev ]( www.gokulakrishnan.dev ),
+- 🪽 Portfolio, [ Gokulakrishnan.dev ] ) ( https://Gokulakrishnxn.dev );
